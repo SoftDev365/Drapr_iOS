@@ -4,6 +4,6 @@ Requirements
 https://drive.google.com/file/d/1vCrx73kVtyVcbWuG8bY66Kwj_4fKgpDD/view?usp=sharing
 https://projects.invisionapp.com/d/main#/console/16255644/337051514/preview#project_console
 https://documenter.getpostman.com/view/3411449/7Ln9NX9#intro
-https://github.com/twindom3d/fenghao_drapr_ios_android
+
 
 
